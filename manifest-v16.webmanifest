@@ -1,0 +1,27 @@
+{
+  "name": "Ders Programı",
+  "short_name": "Ders Programı",
+  "description": "Major Sanat Kursu ders programı",
+  "start_url": "/DERS-PROGRAMI-APP/?source=pwa-v16",
+  "scope": "/DERS-PROGRAMI-APP/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "/DERS-PROGRAMI-APP/app-id-major-ders-programi-v16",
+  "prefer_related_applications": false
+}
