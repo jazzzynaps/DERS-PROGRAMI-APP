@@ -2,8 +2,8 @@
   "name": "Ders Programı",
   "short_name": "Ders Programı",
   "description": "Major Sanat Kursu ders programı",
-  "start_url": "/DERS-PROGRAMI-APP/",
-  "scope": "/DERS-PROGRAMI-APP/",
+  "start_url": "/ders-programi/",
+  "scope": "/ders-programi/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#111827",
@@ -22,5 +22,5 @@
       "purpose": "any maskable"
     }
   ],
-  "id": "/DERS-PROGRAMI-APP/"
+  "id": "/ders-programi/"
 }
