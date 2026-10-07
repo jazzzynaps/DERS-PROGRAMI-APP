@@ -5,3 +5,5 @@
 .quickfilters{display:flex;gap:7px;padding:0 10px 8px;overflow:auto}.quickfilters button{white-space:nowrap}.quickfilters .selected{background:#202124;color:white}.lessonstack{display:grid;gap:6px}.filteredout{padding:14px;color:#98a2b3;font-size:13px}@media(min-width:800px){.quickfilters{max-width:900px}.lessonstack{grid-template-columns:1fr}}
 
 [hidden]{display:none!important}
+.formhint{display:block;margin:-4px 0 10px;color:var(--muted,#6b7280);font-size:12px;line-height:1.35}
+.accountstatus{margin:8px 0 12px;padding:10px 12px;border:1px solid #b8d8c3;border-radius:10px;background:#eef8f1;font-size:13px;font-weight:700}
